@@ -1,0 +1,28 @@
+lxml==4.9.1
+matplotlib==3.5.3
+matplotlib-venn==0.11.7
+numpy==1.21.6
+opencv-contrib-python==4.5.4.60
+opencv-python==4.5.4.60
+opencv-python-headless==4.5.4.60
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+sklearn==0.0
+sklearn-pandas==2.2.0
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboardX==2.5.1
+tensorflow @ file:///opt/conda/conda-bld/dlenv-tf-2-6-gpu_1656639659510/work/tensorflow-2.6.4-cp37-cp37m-linux_x86_64.whl
+tensorflow-addons==0.14.0
+tensorflow-cloud==0.1.14
+tensorflow-datasets==4.3.0
+tensorflow-decision-forests==0.2.0
+tensorflow-estimator==2.6.0
+tensorflow-gcs-config==2.6.0
+tensorflow-hub==0.12.0
+tensorflow-io==0.21.0
+tensorflow-metadata==1.9.0
+tensorflow-probability==0.14.1
+tensorflow-serving-api==2.9.0
+tensorflow-transform==1.9.0
+tensorpack==0.11
