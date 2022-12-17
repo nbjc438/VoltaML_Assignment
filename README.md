@@ -19,14 +19,11 @@ Bounding box annotations are in the PASCAL VOC format.
 - The test-train split was done on a 20-80 ratio.
 - The model was trained for 25 epochs with a bath size of 16.
 
-### Environment Details
-
-
-
 
 ### Results
 
 The proposed model demonstrates a sign-recognition accuracy of 85.8% and a bounding box prediction accuracy of 77.8%. 
 
-![accuracy-graph](https://user-images.githubusercontent.com/88189618/208253776-ae32bb2f-d6e8-4ea9-8872-27920dd79ff0.png)
+![acc-label](https://user-images.githubusercontent.com/88189618/208253776-ae32bb2f-d6e8-4ea9-8872-27920dd79ff0.png)
+![acc_bbox](https://user-images.githubusercontent.com/88189618/208255887-48208298-2deb-4f1c-8102-6452d846621a.png)
 
